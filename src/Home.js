@@ -1,10 +1,9 @@
 import React from 'react'
-
+import './Home.css'
 const Home = () => {
   return (
     <div>
-    <h4>this is home page</h4>
-    
+    <h4 className='heading'>this is home page</h4> 
     </div>
   )
 }
